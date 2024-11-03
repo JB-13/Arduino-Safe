@@ -1,2 +1,2 @@
 # Arduino-Safe
-Safe bauen mit Hilfe eines Arduino Mikrocontrollers
+Für Projektbeschreibung und Bauanleitung die Arduino-Safe.pdf öffnen
